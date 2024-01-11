@@ -1,0 +1,10 @@
+a{
+    text-decoration:none;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+}
+.carousel{
+    margin-bottom: 20px;
+}

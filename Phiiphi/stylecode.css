@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(151, 164, 171);
+    font-family: Heebo, sans-serif;
+    line-height: 1.5;
+}
+img{
+    
+    border-radius: 10px;
+}
+.page{
+    margin-left: 400px;
+    margin-top: 25px;
+    background-color: white;
+    width: 320px;
+    height: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+h5{
+    padding: 15px;
+    word-spacing: 1px;
+    font-weight: bold;
+}
+p{
+    padding-top: none;
+    word-spacing: 1px;
+    color: grey;
+    font-size: 13px;
+    padding-left: 20px;
+}
